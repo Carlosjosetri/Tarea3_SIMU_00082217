@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="_TSC_Laboratorio4_master"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/simu/-TSC-Laboratorio4-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mgwin/mingw32/bin/mingw32-make.exe -f &quot;D:/simu/-TSC-Laboratorio4-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="D:/mgwin/mingw32/bin/mingw32-make.exe -f &quot;D:/simu/-TSC-Laboratorio4-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mgwin/mingw32/bin/mingw32-make.exe -f &quot;D:/simu/-TSC-Laboratorio4-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mgwin/mingw32/bin/mingw32-make.exe -f &quot;D:/simu/-TSC-Laboratorio4-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="_TSC_Laboratorio4_master">
+				<Option output="D:/simu/-TSC-Laboratorio4-master/cmake-build-debug/_TSC_Laboratorio4_master.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/simu/-TSC-Laboratorio4-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/simu/-TSC-Laboratorio4-master/."/>
+					<Add directory="D:/mgwin/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/mgwin/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="D:/mgwin/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/mgwin/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mgwin/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mgwin/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mgwin/mingw32/bin/mingw32-make.exe -f &quot;D:/simu/-TSC-Laboratorio4-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 _TSC_Laboratorio4_master"/>
+					<CompileFile command="D:/mgwin/mingw32/bin/mingw32-make.exe -f &quot;D:/simu/-TSC-Laboratorio4-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mgwin/mingw32/bin/mingw32-make.exe -f &quot;D:/simu/-TSC-Laboratorio4-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mgwin/mingw32/bin/mingw32-make.exe -f &quot;D:/simu/-TSC-Laboratorio4-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="_TSC_Laboratorio4_master/fast">
+				<Option output="D:/simu/-TSC-Laboratorio4-master/cmake-build-debug/_TSC_Laboratorio4_master.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/simu/-TSC-Laboratorio4-master/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="D:/simu/-TSC-Laboratorio4-master/."/>
+					<Add directory="D:/mgwin/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="D:/mgwin/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="D:/mgwin/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="D:/mgwin/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="D:/mgwin/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="D:/mgwin/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="D:/mgwin/mingw32/bin/mingw32-make.exe -f &quot;D:/simu/-TSC-Laboratorio4-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 _TSC_Laboratorio4_master/fast"/>
+					<CompileFile command="D:/mgwin/mingw32/bin/mingw32-make.exe -f &quot;D:/simu/-TSC-Laboratorio4-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mgwin/mingw32/bin/mingw32-make.exe -f &quot;D:/simu/-TSC-Laboratorio4-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mgwin/mingw32/bin/mingw32-make.exe -f &quot;D:/simu/-TSC-Laboratorio4-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="D:/simu/-TSC-Laboratorio4-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mgwin/mingw32/bin/mingw32-make.exe -f &quot;D:/simu/-TSC-Laboratorio4-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="D:/mgwin/mingw32/bin/mingw32-make.exe -f &quot;D:/simu/-TSC-Laboratorio4-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mgwin/mingw32/bin/mingw32-make.exe -f &quot;D:/simu/-TSC-Laboratorio4-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mgwin/mingw32/bin/mingw32-make.exe -f &quot;D:/simu/-TSC-Laboratorio4-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="D:/simu/-TSC-Laboratorio4-master/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="D:/mgwin/mingw32/bin/mingw32-make.exe -f &quot;D:/simu/-TSC-Laboratorio4-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="D:/mgwin/mingw32/bin/mingw32-make.exe -f &quot;D:/simu/-TSC-Laboratorio4-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="D:/mgwin/mingw32/bin/mingw32-make.exe -f &quot;D:/simu/-TSC-Laboratorio4-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="D:/mgwin/mingw32/bin/mingw32-make.exe -f &quot;D:/simu/-TSC-Laboratorio4-master/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/simu/-TSC-Laboratorio4-master/classes.h">
+			<Option target="_TSC_Laboratorio4_master"/>
+		</Unit>
+		<Unit filename="D:/simu/-TSC-Laboratorio4-master/display_tools.h">
+			<Option target="_TSC_Laboratorio4_master"/>
+		</Unit>
+		<Unit filename="D:/simu/-TSC-Laboratorio4-master/main.cpp">
+			<Option target="_TSC_Laboratorio4_master"/>
+		</Unit>
+		<Unit filename="D:/simu/-TSC-Laboratorio4-master/math_tools.h">
+			<Option target="_TSC_Laboratorio4_master"/>
+		</Unit>
+		<Unit filename="D:/simu/-TSC-Laboratorio4-master/sel.h">
+			<Option target="_TSC_Laboratorio4_master"/>
+		</Unit>
+		<Unit filename="D:/simu/-TSC-Laboratorio4-master/tools.h">
+			<Option target="_TSC_Laboratorio4_master"/>
+		</Unit>
+		<Unit filename="D:/simu/-TSC-Laboratorio4-master/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
